@@ -9,13 +9,16 @@ Comment:这些方法也可以用于衡量最近邻（Nearest Neighbor）
 
 主要的逻辑代码在[Euclidean_Distance.py](Euclidean_Distance.py)
 
-2.内积相似度:
+2.内积相似度（Dot product similarity）:
 
 反映了两个向量在空间中的“对齐程度”，内积越大，向量越相似。
 ![图示2](pic/2.png)
 
-3.cosine相似度:
+主要的逻辑代码在[Dot_product_similarity.py](Dot_product_similarity.py)
+
+3.cosine相似度（cosine similarity）:
 
 余弦相似度反映了向量之间的夹角大小，余弦相似度越大，向量越相似。
 ![图示3](pic/3.png)
 
+主要的逻辑代码在[cosine_similarity.py](cosine_similarity.py)
